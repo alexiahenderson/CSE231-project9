@@ -1,0 +1,13 @@
+'File not found. Try again.'
+'Common passwords file [enter for default]: '
+'Hashes file: '
+'Common English Words file: '
+'First names file: '
+'Phrases file: '
+'Error. Try again.'
+"\nCracked Passwords:"
+'[ + ] {:<12s} {:<34s} {:<14s} {:.2f}'
+'[ i ] stats: cracked {:,d}; uncracked {:,d}'
+"\n{:20s} {}"
+'The entropy of {} is {}'
+'Enter the password: '
